@@ -7,25 +7,3 @@
 ## 📝 Licencia
 
 Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo, mejorarlo y compartirlo!
-$$
-S_w = \sqrt{ \frac{a \cdot R_w}{\phi^m \cdot R_t} }
-$$
-Donde:
-$$
-S_w: \text{ Saturación de agua}
-$$
-$$
-a: \text{ Factor de tortuosidad (constante empírica)}
-$$
-$$
-R_w: \text{ Resistividad del agua de formación}
-$$
-$$
-\phi: \text{ Porosidad de la roca}
-$$
-$$
-m: \text{ Exponente de cementación}
-$$
-$$
-R_t: \text{ Resistividad total medida en el pozo}
-$$
